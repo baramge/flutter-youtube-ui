@@ -37,6 +37,9 @@ dependencies:
   numeral: ^1.2.5
   timeago: ^3.2.2
   scroll_app_bar: ^2.0.0
+  video_player: ^2.3.0
+  file_picker: ^4.5.1
+  permission_handler: ^9.2.0
 
 dev_dependencies:
   flutter_test:
